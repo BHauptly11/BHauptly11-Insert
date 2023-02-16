@@ -1,0 +1,1 @@
+INSERT INTO Song (title, artist) VALUES ('Vietnow', 'Rage Against the Machine');
